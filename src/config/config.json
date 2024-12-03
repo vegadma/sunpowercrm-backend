@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "jesusvega",
+    "password": "new_password",
+    "database": "sunpowercrm",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "test": {
+    "username": "your_postgres_username",
+    "password": "your_postgres_password",
+    "database": "sunpowercrm_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "production": {
+    "username": "your_postgres_username",
+    "password": "your_postgres_password",
+    "database": "sunpowercrm_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432
+  }
+}
+
